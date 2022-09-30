@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [Watts](https://github.com/Watts8bits)
 - [Arunava Ghosh](https://github.com/its-ag)
+- [Kamya](https://github.com/Kamya90)
 - [Carlo Tran](https://github.com/medicalanthrax)
 - [Rafael Magalhães](https://github.com/rafar-204)
 - [Daniel Harka](https://github.com/MrDanielHarka)
